@@ -1,5 +1,4 @@
 require 'minitest/autorun'
-require 'pry'
 require 'verdi'
 
 require './test/helper'
