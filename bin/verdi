@@ -1,0 +1,12 @@
+#! /usr/bin/env ruby
+
+require 'verdi'
+require 'verdi/cli'
+
+def help_required?
+  ['--help', '-h'].include? ARGV[0]
+end
+
+if ARGV.length < 1 || help_required?
+  puts Verdi.usage
+end
