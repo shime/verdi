@@ -1,4 +1,5 @@
 # Verdi
+[![Build Status](https://travis-ci.org/shime/verdi.svg?branch=master)](https://travis-ci.org/shime/verdi)
 
 ![](http://uploads5.wikiart.org/images/giovanni-boldini/portrait-of-guiseppe-verdi-1813-1901.jpg!Blog.jpg)
 
