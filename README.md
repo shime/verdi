@@ -24,6 +24,11 @@ Or install it yourself as:
 
     $ verdi minitest 5.4.0 5.3.5
 
+## Requirements
+
+* git
+* rubygems
+
 ## Contributing
 
 1. Fork it ( https://github.com/shime/verdi/fork )
